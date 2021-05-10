@@ -1,0 +1,7 @@
+name = "RuntimeEnums"
+uuid = "5aed96f1-df88-482a-81d7-fb30b91491f6"
+authors = ["Kiruse <contact@kiruse.dev>"]
+version = "1.0.0"
+
+[compat]
+julia = "1.0"
